@@ -41,10 +41,11 @@ The application will be available at http://localhost:3000.
 ### Automation Testing Instructions
 
 Write automation tests to:
-• Fill out the form fields and submit the form.
-• Validate error messages for incorrect inputs.
-• Handle dynamic form field interactions.
-• Verify the form reset functionality.
-• Test the visibility of conditionally rendered fields.
-• Simulate asynchronous validation for the username field.
-• Recommended tools: Cypress, Playwright, or Selenium.
+- Fill out the form fields and submit the form.
+- Validate error messages for incorrect inputs.
+- Handle dynamic form field interactions.
+- Verify the form reset functionality.
+- Test the visibility of conditionally rendered fields.
+- Simulate asynchronous validation for the username field.
+
+Recommended tools: Cypress, Playwright, or Selenium.
